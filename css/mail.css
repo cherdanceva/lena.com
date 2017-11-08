@@ -1,0 +1,102 @@
+.shapka {
+
+
+            
+             margin-left: 5%;
+             margin-right: 5%;
+             border:1px solid black;
+             width:90%;
+                height:40%;
+
+
+}
+
+ 
+ ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+  padding-left: 0; /*убираем отступы*/
+  margin-top:25px; /*делаем отступ сверху*/
+}
+a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:#30A8E6; /*добавляем фон к пункту меню*/
+  color:#fff; /*меняем цвет ссылок*/
+  padding:10px; /*добавляем отступ*/
+  font-family: arial; /*меняем шрифт*/
+  border-radius:4px; /*добавляем скругление*/
+  -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+a:hover {
+  background:#1C85BB;/*добавляем эффект при наведении*/
+}
+li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+  margin-right:5px; /*Добавляем отступ у пунктов меню*/
+  
+}
+
+.primer { 
+         
+          
+           height:auto;
+           background: #FFE4C4;
+           float:center;
+           border-radius: 10px 10px 0 0;
+            
+             margin-left: 5%;
+             margin-right: 5%;
+
+}
+  
+  .menu {
+ width:100%;
+height:8%;
+ border:1px solid black;
+            background: #41FFF9;
+           float:center;
+           border-radius: 10px;
+             margin-left: 0%;
+             margin-right: 0%;
+  } 
+  .novosti {
+    width:auto;
+height:auto;
+
+        
+           float:center;
+          
+             margin-left: 20%;
+             margin-right: 20%;
+  }
+  .video {
+
+ width:auto;
+height:auto;
+float:center;
+    margin-left: 20%;
+             margin-right: 20%;
+  }
+
+
+.footer {
+   margin-bottom: 5%;
+height:20%;
+ background: #5AFFF1;
+ border-radius: 10px 10px 10px 10px;
+ margin-left: 5%;
+             margin-right: 5%;
+             
+
+  }
+   .menu2 {
+ width:100%;
+height:8%;
+ border:1px solid black;
+            background: #30A8E6;
+           float:center;
+           border-radius: 10px;
+             margin-left: 0%;
+             margin-right: 0%;
